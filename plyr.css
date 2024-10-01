@@ -930,7 +930,7 @@ a.plyr__control:before {
 	color: #592762;
 	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
-	padding: var(--plyr-control-spacing, 10px)
+	padding: var(--plyr-control-spacing, 12px);
 	border-color: #592762;
     	border-width: 2px;
     	border-style: dashed;
