@@ -879,21 +879,21 @@ a.plyr__control:before {
 }
 
 .plyr--video.plyr--loading .plyr__progress__buffer {
-	background-color: #ffffff40;
-	background-color: var(--plyr-video-progress-buffered-background, #ffffff40)
+	background-color: #ffdce0;
+	background-color: var(--plyr-video-progress-buffered-background, #ffdce0)
 }
 
 .plyr--audio.plyr--loading .plyr__progress__buffer {
-	background-color: #c1c8d199;
-	background-color: var(--plyr-audio-progress-buffered-background, #c1c8d199)
+	background-color: #ffdce0;
+	background-color: var(--plyr-audio-progress-buffered-background, #ffdce0)
 }
 
 .plyr__progress__marker {
 	background-color: #fff;
 	background-color: var(--plyr-progress-marker-background, #fff);
 	border-radius: 1px;
-	height: 5px;
-	height: var(--plyr-range-track-height, 5px);
+	height: 8px;
+	height: var(--plyr-range-track-height, 8px);
 	position: absolute;
 	top: 50%;
 	transform: translate(-50%, -50%);
