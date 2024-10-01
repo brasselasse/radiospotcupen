@@ -924,13 +924,16 @@ a.plyr__control:before {
 }
 
 .plyr--audio .plyr__controls {
-	background: #fff;
-	background: var(--plyr-audio-controls-background, #fff);
+	background: #ffb0b8;
+	background: var(--plyr-audio-controls-background, #ffb0b8);
 	border-radius: 30px;
 	color: #592762;
 	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
 	padding: var(--plyr-control-spacing, 10px)
+	border-color: #592762;
+    	border-width: 2px;
+    	border-style: dashed;
 }
 
 .plyr--audio .plyr__control:focus-visible,
