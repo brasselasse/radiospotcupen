@@ -343,8 +343,8 @@ a.plyr__control:before {
 
 .plyr__menu__container .plyr__control {
 	align-items: center;
-	color: #4a5464;
-	color: var(--plyr-menu-color, #4a5464);
+	color: #592762;
+	color: var(--plyr-menu-color, #592762);
 	display: flex;
 	font-size: 13px;
 	font-size: var(--plyr-font-size-menu, var(--plyr-font-size-small, 13px));
@@ -706,8 +706,8 @@ a.plyr__control:before {
 	bottom: 100%;
 	box-shadow: 0 1px 2px #00000026;
 	box-shadow: var(--plyr-tooltip-shadow, 0 1px 2px #00000026);
-	color: #4a5464;
-	color: var(--plyr-tooltip-color, #4a5464);
+	color: #592762;
+	color: var(--plyr-tooltip-color, #592762);
 	font-size: 13px;
 	font-size: var(--plyr-font-size-small, 13px);
 	font-weight: 400;
@@ -927,8 +927,8 @@ a.plyr__control:before {
 	background: #fff;
 	background: var(--plyr-audio-controls-background, #fff);
 	border-radius: inherit;
-	color: #4a5464;
-	color: var(--plyr-audio-control-color, #4a5464);
+	color: #592762;
+	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
 	padding: var(--plyr-control-spacing, 10px)
 }
