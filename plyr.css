@@ -182,11 +182,11 @@
 .plyr__control svg {
 	fill: currentColor;
 	display: block;
-	height: 22px;
-	height: var(--plyr-control-icon-size, 22px);
+	height: 18px;
+	height: var(--plyr-control-icon-size, 18px);
 	pointer-events: none;
-	width: 22px;
-	width: var(--plyr-control-icon-size, 22px)
+	width: 18px;
+	width: var(--plyr-control-icon-size, 18px)
 }
 
 .plyr__control:focus {
@@ -931,7 +931,7 @@ a.plyr__control:before {
 	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
 	padding: var(--plyr-control-spacing, 12px);
-	border-color: #592762;
+	border-color: #ffb0b8;
     	border-width: 2px;
     	border-style: dashed;
 }
