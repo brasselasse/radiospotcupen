@@ -926,7 +926,7 @@ a.plyr__control:before {
 .plyr--audio .plyr__controls {
 	background: #ffecee;
 	background: var(--plyr-audio-controls-background, #ffecee);
-	border-radius: 30px;
+	border-radius: 4px;
 	color: #592762;
 	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
@@ -979,7 +979,7 @@ a.plyr__control:before {
 	color: #59276254;
 	color: var(--plyr-audio-progress-buffered-background, #59276254);
 	background-color:#59276254;
-	box-shadow: inset 0 0 3px 0 rgba(0,0,0,0.2);
+	box-shadow: inset 0 0 2px 0 rgba(0,0,0,0.8);
 }
 
 .plyr--video {
