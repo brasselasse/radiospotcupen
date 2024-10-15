@@ -44,7 +44,7 @@
 	line-height: 1.7;
 	line-height: var(--plyr-line-height, 1.7);
 	max-width: 100%;
-	min-width: 100px;
+	min-width: 75px;
 	position: relative;
 	text-shadow: none;
 	transition: box-shadow .3s ease;
