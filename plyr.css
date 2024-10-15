@@ -879,7 +879,7 @@ a.plyr__control:before {
 }
 
 .plyr--video.plyr--loading .plyr__progress__buffer {
-	background-color: #ffdce0;
+	background-color: #5927628c;
 	background-color: var(--plyr-video-progress-buffered-background, #ffdce0)
 }
 
