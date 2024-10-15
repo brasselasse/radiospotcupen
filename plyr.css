@@ -931,9 +931,9 @@ a.plyr__control:before {
 	color: var(--plyr-audio-control-color, #592762);
 	padding: 10px;
 	padding: var(--plyr-control-spacing, 12px);
-	border-color: #ffb0b8;
-    	border-width: 2px;
-    	border-style: dashed;
+	/* border-color: #ffb0b8; */
+    	/*border-width: 2px;*/
+    	/*border-style: dashed;*/
 }
 
 .plyr--audio .plyr__control:focus-visible,
