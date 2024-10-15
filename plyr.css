@@ -979,6 +979,7 @@ a.plyr__control:before {
 	color: #59276254;
 	color: var(--plyr-audio-progress-buffered-background, #59276254);
 	background-color:#59276254;
+	box-shadow: inset 0 0 3px 0 rgba(0,0,0,0.2);
 }
 
 .plyr--video {
