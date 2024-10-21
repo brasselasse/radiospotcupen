@@ -924,16 +924,13 @@ a.plyr__control:before {
 }
 
 .plyr--audio .plyr__controls {
-	background: #f8acb3;
-	background: var(--plyr-audio-controls-background, #f8acb3);
+	background: #e0005d;
+	background-image: linear-gradient(208deg, #F00 5.21%, #C09 89.03%);
 	border-radius: 40px;
-	color: #592762;
-	color: var(--plyr-audio-control-color, #592762);
+	color: #fff;
+	color: var(--plyr-audio-control-color, #e0005d);
 	padding: 8px;
 	padding: var(--plyr-control-spacing, 8px);
-	border-color: #592763;
-    	border-width: 2px;
-    	border-style: dashed;
 }
 
 .plyr--audio .plyr__control:focus-visible,
